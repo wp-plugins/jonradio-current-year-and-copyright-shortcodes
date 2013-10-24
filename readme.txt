@@ -3,7 +3,7 @@ Contributors: jonradio
 Donate link: http://jonradio.com/plugins
 Tags: copyright, date, year, shortcode, plugin
 Requires at least: 3.0
-Tested up to: 3.6
+Tested up to: 3.7
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,11 +30,11 @@ IMPORTANT USAGE NOTE:  WordPress does not currently support the use of two Short
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+This section describes how to install the *jonradio Current Year and Copyright Shortcodes* plugin and get it working.
 
-1. Use "Add Plugin" within the WordPress Admin panel to download and install this plugin from the WordPress.org plugin repository (preferred method).  Or download and unzip this plugin, then upload the `/jonradio-current-year-and-copyright-shortcodes/` directory to your WordPress web site's `/wp-content/plugins/` directory.
-1. Activate the plugin through the 'Plugins' menu in WordPress.  If you have a WordPress Network ("Multisite"), you can either Network Activate this plugin, or Activate it individually on the sites where you wish to use it.  Activating on individual sites within a Network avoids some of the confusion created by WordPress' hiding of Network Activated plugins on the Plugin menu of individual sites.
-1. Insert the `[y]`, `[c]` and/or `[cy]` shortcodes as many times as you wish in one or more WordPress Pages or Posts; note the current WordPress restriction that no two Shortcodes cannot be placed "side by side", i.e. - `[c][y]` will not work.
+1. Use **Add Plugin** within the WordPress Admin panel to download and install this *jonradio Current Year and Copyright Shortcodes* plugin from the WordPress.org plugin repository (preferred method).  Or download and unzip this plugin, then upload the `/jonradio-current-year-and-copyright-shortcodes/` directory to your WordPress web site's `/wp-content/plugins/` directory.
+1. Activate the *jonradio Current Year and Copyright Shortcodes* plugin through the **Installed Plugins** Admin panel in WordPress.  If you have a WordPress Network ("Multisite"), you can either **Network Activate** this plugin, or Activate it individually on the sites where you wish to use it.  Activating on individual sites within a Network avoids some of the confusion created by WordPress' hiding of Network Activated plugins on the Plugin menu of individual sites.  Alternatively, to avoid this confusion, you can install the *jonradio Reveal Network Activated Plugins* plugin.
+1. Insert the `[y]`, `[c]` and/or `[cy]` shortcodes as many times as you wish in one or more WordPress Pages or Posts; note the current WordPress restriction that no two Shortcodes cannot be placed *side by side*, i.e. - `[c][y]` will not work.
 
 == Frequently Asked Questions ==
 
