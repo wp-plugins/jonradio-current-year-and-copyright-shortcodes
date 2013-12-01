@@ -3,7 +3,7 @@ Contributors: jonradio
 Donate link: http://jonradio.com/plugins
 Tags: copyright, date, year, shortcode, plugin
 Requires at least: 3.0
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ Provides Shortcodes to display the Current Year and/or a Copyright symbol.
 
 == Description ==
 
-Inserts the current Year into a Post or Page through the use of a Shortcode.  And always keeps it up to date.  For example, a Page created today (2012) viewed 5 years from now (2017) will show the Year current when it is viewed (2017) by any site visitor.
+Inserts the current Year into a Post or Page through the use of a Shortcode.  And always keeps it up to date.  For example, a Page created today (2014) viewed 5 years from now (2019) will show the Year current when it is viewed (2019) by any site visitor.
 
 A second Shortcode inserts a Copyright symbol:  &copy;.  And a third provides both because of WordPress restrictions of using two Shortcodes side-by-side.
 
@@ -20,13 +20,13 @@ The `[y]` shortcode inserts the four digit current year into any Page or Post no
 
 For example, if you are continually refining an older article that you want to copyright on a WordPress Page, you could put the following at the bottom of the page:
 `[c] 1997-[y] John Smith`
-Assuming it is currently the year 2012, that would display as:
+Assuming it is currently the year 2014, that would display as:
 
-&copy; 1997-2012 John Smith
+&copy; 1997-2014 John Smith
 
-In 2013, it would automatically display as &copy; 1997-2013 John Smith without anyone having to edit the Page.
+In 2015, it would automatically display as &copy; 1997-2015 John Smith without anyone having to edit the Page.
 
-IMPORTANT USAGE NOTE:  WordPress does not currently support the use of two Shortcodes in a row on a Page or Post.  In other words, `[c][y]` WILL NOT WORK!  As of this writing (June 24, 2012), the WordPress Development Team has this issue scheduled for resolution in a "Future Release", a state it has remained in for the last 20 months.  That is why the `[cy]` Shortcode has been provided.
+IMPORTANT USAGE NOTE:  Older versions of WordPress did not support the use of two Shortcodes in a row on a Page or Post.  In other words, `[c][y]` did not write.  That is why the `[cy]` Shortcode has been provided.
 
 == Installation ==
 
