@@ -1,7 +1,7 @@
 === jonradio Current Year and Copyright Shortcodes ===
-Contributors: jonradio
+Contributors: dgewirtz, jonradio
 Donate link: http://jonradio.com/plugins
-Tags: adopt-me, copyright, date, year, shortcode, plugin
+Tags: copyright, date, year, shortcode, plugin
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0

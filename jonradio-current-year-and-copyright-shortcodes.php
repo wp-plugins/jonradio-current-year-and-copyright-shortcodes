@@ -4,7 +4,7 @@ Plugin Name: jonradio Current Year and Copyright Shortcodes
 Plugin URI: http://jonradio.com/plugins/jonradio-current-year-and-copyright-shortcodes/
 Description: Provides Shortcodes to display the Current Year and/or a Copyright symbol.
 Version: 1.0
-Author: jonradio
+Author: dgewirtz, jonradio
 Author URI: http://jonradio.com/plugins
 License: GPLv2
 */
