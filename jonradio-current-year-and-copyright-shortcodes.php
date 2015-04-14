@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: jonradio Current Year and Copyright Shortcodes
-Plugin URI: http://jonradio.com/plugins/jonradio-current-year-and-copyright-shortcodes/
+Plugin URI: http://zatzlabs.com/lab-notes/
 Description: Provides Shortcodes to display the Current Year and/or a Copyright symbol.
 Version: 1.0
-Author: dgewirtz, jonradio
-Author URI: http://jonradio.com/plugins
+Author: dgewirtz
+Author URI: http://zatzlabs.com/lab-notes/
 License: GPLv2
 */
 
