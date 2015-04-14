@@ -1,6 +1,6 @@
 === jonradio Current Year and Copyright Shortcodes ===
 Contributors: dgewirtz, jonradio
-Donate link: http://jonradio.com/plugins
+Donate link: http://zatzlabs.com/plugins/
 Tags: copyright, date, year, shortcode, plugin
 Requires at least: 3.0
 Tested up to: 4.2
@@ -48,7 +48,7 @@ If you need to use a Shortcode other than in the body of a Page or Post, you wil
 
 If there is enough interest, we will add that capability to a future version.  Please let us know, including your ideas on how you would like it to work, and any shortcode naming conflicts with other plugins that you found.
 
-You can fill out this [Contact Form (click here)](http://jonradio.com/contact-us/ "Contact Form").
+You can fill out this [Contact Form (click here)](http://zatzlabs.com/contact-us/ "Contact Form").
 
 == Screenshots ==
 
