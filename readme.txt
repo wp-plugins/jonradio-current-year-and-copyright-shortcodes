@@ -12,6 +12,8 @@ Provides Shortcodes to display the Current Year and/or a Copyright symbol.
 
 == Description ==
 
+*Formerly: "Current Year and Copyright Shortcodes"*
+
 If you need to display the current year, and have it always kept up to date, inserting this plugin's `[y]` shortcode almost anywhere on your web site will do just that.
 
 If you need to display an official Copyright notice, inserting this plugin's `[c]` shortcode provides the official C with a circle around it ("&copy;") required legally in many countries to Copyright many forms of intellectual property.
@@ -27,6 +29,11 @@ Assuming it is currently the year 2014, that would display as:
 &copy; 1997-2014 John Smith
 
 In 2015, it would automatically display as &copy; 1997-2015 John Smith without anyone having to edit the Page.
+
+> <strong>Adoption Notice</strong><br>
+> This plugin was recently adopted by David Gewirtz and ongoing support and updates will continue. Feel free to visit [David's Lab Notes](http://zatzlabs.com/lab-notes/) for additional details and to sign up for emailed news updates.
+
+Special thanks to Jon 'jonradio' Pearkins for creating the plugin and making adoption possible.
 
 == Installation ==
 
