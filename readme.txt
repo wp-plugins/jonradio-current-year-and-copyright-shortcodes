@@ -1,4 +1,4 @@
-=== jonradio Current Year and Copyright Shortcodes ===
+=== Current Year and Copyright Shortcodes ===
 Contributors: dgewirtz
 Donate link: http://zatzlabs.com/lab-notes/
 Tags: copyright, date, year, shortcode, plugin
