@@ -1,5 +1,5 @@
 === jonradio Current Year and Copyright Shortcodes ===
-Contributors: dgewirtz, jonradio
+Contributors: dgewirtz
 Donate link: http://zatzlabs.com/plugins/
 Tags: copyright, date, year, shortcode, plugin
 Requires at least: 3.0
