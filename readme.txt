@@ -1,6 +1,6 @@
-=== jonradio Current Year and Copyright Shortcodes ===
+=== Current Year and Copyright Shortcodes ===
 Contributors: dgewirtz
-Donate link: http://zatzlabs.com/plugins/
+Donate link: http://zatzlabs.com/lab-notes/
 Tags: copyright, date, year, shortcode, plugin
 Requires at least: 3.0
 Tested up to: 4.2
@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Provides Shortcodes to display the Current Year and/or a Copyright symbol.
 
 == Description ==
+
+*Formerly: "Current Year and Copyright Shortcodes"*
 
 If you need to display the current year, and have it always kept up to date, inserting this plugin's `[y]` shortcode almost anywhere on your web site will do just that.
 
@@ -27,6 +29,11 @@ Assuming it is currently the year 2014, that would display as:
 &copy; 1997-2014 John Smith
 
 In 2015, it would automatically display as &copy; 1997-2015 John Smith without anyone having to edit the Page.
+
+> <strong>Adoption Notice</strong><br>
+> This plugin was recently adopted by David Gewirtz and ongoing support and updates will continue. Feel free to visit [David's Lab Notes](http://zatzlabs.com/lab-notes/) for additional details and to sign up for emailed news updates.
+
+Special thanks to Jon 'jonradio' Pearkins for creating the plugin and making adoption possible.
 
 == Installation ==
 
