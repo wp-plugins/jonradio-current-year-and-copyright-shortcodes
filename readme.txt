@@ -12,7 +12,7 @@ Provides Shortcodes to display the Current Year and/or a Copyright symbol.
 
 == Description ==
 
-*Formerly: "Current Year and Copyright Shortcodes"*
+*Formerly: "jonradio Current Year and Copyright Shortcodes"*
 
 If you need to display the current year, and have it always kept up to date, inserting this plugin's `[y]` shortcode almost anywhere on your web site will do just that.
 
